@@ -5,10 +5,10 @@ I'm a Computer Science sophomore focused on developing useful solutions to meet 
 
 - 🔭 I’m currently working on : SeeSo
 - 🌱 I’m currently learning : Flutter/Dart
-- 👯 I’m looking to collaborate on: anything and everything interesting
+- 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : Python, HTML, CSS, JS
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Sum of all naturals numbers till infinity is -1/12!
+- ⚡ Fun fact: Sum of all naturals numbers till infinity is -1/12!😁
 
 <!--
 **WCoder007/WCoder007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
