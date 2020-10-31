@@ -1,5 +1,6 @@
 ### Hola Amigos 👋 
-#### Niveditha here!
+### Niveditha here!
+--
 I'm a Computer Science sophomore focused on developing useful solutions to meet changing business and customer demands. Always curious and has an insatiable thirst to learn new things and explore more domains. A firm believer of "Do and learn". 
 
 - 🔭 I’m currently working on : SeeSo
