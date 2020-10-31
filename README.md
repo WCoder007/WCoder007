@@ -1,7 +1,9 @@
-### Hola Amigos 👋 
+<h3 align="center"> Hola Amigos 👋 </h3>
+<h3 align="center"> Niveditha N </h3>
+
 ### Niveditha here!
 ---
-I'm a Computer Science sophomore focused on developing useful solutions to meet changing business and customer demands. Always curious and has an insatiable thirst to learn new things and explore more domains. A firm believer of "Do and learn". 
+I'm a Computer Science Sophomore focused on developing useful solutions to meet changing business and customer demands. Always curious and has an insatiable thirst to learn new things and explore more domains. A firm believer of "Do and learn". 
 
 - 🔭 I’m currently working on : SeeSo
 - 🌱 I’m currently learning : Flutter/Dart
