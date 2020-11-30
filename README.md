@@ -9,8 +9,8 @@ I'm a Computer Science Sophomore focused on developing useful solutions to meet 
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : Python, HTML, CSS, JS
 - 📫 How to reach me: 
-** nniveditha2001@gmail.com 
-** www.linkedin.com/in/WCoder007
+  ** nniveditha2001@gmail.com 
+  ** www.linkedin.com/in/WCoder007
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Sum of all naturals numbers till infinity is -1/12!😁
 
