@@ -5,7 +5,6 @@
 Niveditha here!</br>
 I'm a Computer Science Sophomore focused on developing useful solutions to meet changing business and customer demands. Always curious and has an insatiable thirst to learn new things and explore more domains. A firm believer of "Do and learn". 
 
-- 🔭 I’m currently working on : Rock-Paper-Scissors
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : Python, HTML, CSS, JS
 - 📫 How to reach me: 
