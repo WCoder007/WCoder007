@@ -7,7 +7,7 @@ I'm a Computer Science Sophomore focused on developing useful solutions to meet 
 
 - 👯 I’m looking to collaborate on: anything and everything interesting💡
 - 💬 Ask me about : Python, HTML, CSS, JS
-- 🌱 I’m currently learning : LateX, API Integration, Matlab, Verilog
+- 🌱 I’m currently learning : LateX, API Integration, Matlab, Verilog, php, mysql
 - 📫 How to reach me: 
   * nniveditha2001@gmail.com 
   * www.linkedin.com/in/WCoder007
